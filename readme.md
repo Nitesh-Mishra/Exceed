@@ -1,0 +1,1 @@
+This is a project that i made for an institute and the technology stack that i had choosen was VB.Net and MySql for front end and back end and crystal report for reporting.
