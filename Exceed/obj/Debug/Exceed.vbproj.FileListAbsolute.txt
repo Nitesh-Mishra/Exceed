@@ -1,0 +1,241 @@
+C:\Users\Ajeetk\Desktop\exceed.git\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.exe.config
+C:\Users\Ajeetk\Desktop\exceed.git\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.exe
+C:\Users\Ajeetk\Desktop\exceed.git\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.xml
+C:\Users\Ajeetk\Desktop\exceed.git\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.pdb
+C:\Users\Ajeetk\Desktop\exceed.git\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.exe
+C:\Users\Ajeetk\Desktop\exceed.git\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.pdb
+C:\Users\Ajeetk\Desktop\exceed.git\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.xml
+C:\Users\Ajeetk\Desktop\exceed.git\Shree_Edu\Shree_Edu\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ajeetk\Desktop\exceed.git\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.Add_Class.resources
+C:\Users\Ajeetk\Desktop\exceed.git\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.Add_discount.resources
+C:\Users\Ajeetk\Desktop\exceed.git\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.Add_Test.resources
+C:\Users\Ajeetk\Desktop\exceed.git\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.Add_User.resources
+C:\Users\Ajeetk\Desktop\exceed.git\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.Ask_Add_Delete_User.resources
+C:\Users\Ajeetk\Desktop\exceed.git\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.Change_Pwd.resources
+C:\Users\Ajeetk\Desktop\exceed.git\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.class_report.resources
+C:\Users\Ajeetk\Desktop\exceed.git\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.emailtest.resources
+C:\Users\Ajeetk\Desktop\exceed.git\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.Fees_Report.resources
+C:\Users\Ajeetk\Desktop\exceed.git\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.Fees_status.resources
+C:\Users\Ajeetk\Desktop\exceed.git\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.FogortPasswordForm.resources
+C:\Users\Ajeetk\Desktop\exceed.git\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.forgotChangePassword.resources
+C:\Users\Ajeetk\Desktop\exceed.git\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.loginForm.resources
+C:\Users\Ajeetk\Desktop\exceed.git\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.Marks_Data_Entry.resources
+C:\Users\Ajeetk\Desktop\exceed.git\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.Master_Password.resources
+C:\Users\Ajeetk\Desktop\exceed.git\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.Profile_Report.resources
+C:\Users\Ajeetk\Desktop\exceed.git\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.Reports.resources
+C:\Users\Ajeetk\Desktop\exceed.git\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.Resources.resources
+C:\Users\Ajeetk\Desktop\exceed.git\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.Individual_Report_Form.resources
+C:\Users\Ajeetk\Desktop\exceed.git\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.Select_Action.resources
+C:\Users\Ajeetk\Desktop\exceed.git\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.Student_Reg.resources
+C:\Users\Ajeetk\Desktop\exceed.git\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.Verification_By_Email.resources
+C:\Users\Ajeetk\Desktop\exceed.git\Shree_Edu\Shree_Edu\obj\Debug\Exceed.vbproj.GenerateResource.Cache
+C:\Users\Ajeetk\Desktop\exceed.git\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.assignment.resources
+C:\Users\Ajeetk\Desktop\exceed.git\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.classwise_graphicalform.resources
+C:\Users\Ajeetk\Desktop\exceed.git\Exceed\Shree_Edu\bin\Debug\Shree_Edu.exe.config
+C:\Users\Ajeetk\Desktop\exceed.git\Exceed\Shree_Edu\obj\Debug\Shree_Edu.exe
+C:\Users\Ajeetk\Desktop\exceed.git\Exceed\Shree_Edu\obj\Debug\Shree_Edu.xml
+C:\Users\Ajeetk\Desktop\exceed.git\Exceed\Shree_Edu\obj\Debug\Shree_Edu.pdb
+C:\Users\Ajeetk\Desktop\exceed.git\Exceed\Shree_Edu\bin\Debug\Shree_Edu.exe
+C:\Users\Ajeetk\Desktop\exceed.git\Exceed\Shree_Edu\bin\Debug\Shree_Edu.pdb
+C:\Users\Ajeetk\Desktop\exceed.git\Exceed\Shree_Edu\bin\Debug\Shree_Edu.xml
+C:\Users\Ajeetk\Desktop\exceed.git\Exceed\Shree_Edu\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ajeetk\Desktop\exceed.git\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Add_Class.resources
+C:\Users\Ajeetk\Desktop\exceed.git\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Add_discount.resources
+C:\Users\Ajeetk\Desktop\exceed.git\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Add_Test.resources
+C:\Users\Ajeetk\Desktop\exceed.git\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Add_User.resources
+C:\Users\Ajeetk\Desktop\exceed.git\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Ask_Add_Delete_User.resources
+C:\Users\Ajeetk\Desktop\exceed.git\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Change_Pwd.resources
+C:\Users\Ajeetk\Desktop\exceed.git\Exceed\Shree_Edu\obj\Debug\ShreeEducation.classwise_graphicalform.resources
+C:\Users\Ajeetk\Desktop\exceed.git\Exceed\Shree_Edu\obj\Debug\ShreeEducation.class_report.resources
+C:\Users\Ajeetk\Desktop\exceed.git\Exceed\Shree_Edu\obj\Debug\ShreeEducation.emailtest.resources
+C:\Users\Ajeetk\Desktop\exceed.git\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Fees_Report.resources
+C:\Users\Ajeetk\Desktop\exceed.git\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Fees_status.resources
+C:\Users\Ajeetk\Desktop\exceed.git\Exceed\Shree_Edu\obj\Debug\ShreeEducation.FogortPasswordForm.resources
+C:\Users\Ajeetk\Desktop\exceed.git\Exceed\Shree_Edu\obj\Debug\ShreeEducation.forgotChangePassword.resources
+C:\Users\Ajeetk\Desktop\exceed.git\Exceed\Shree_Edu\obj\Debug\ShreeEducation.loginForm.resources
+C:\Users\Ajeetk\Desktop\exceed.git\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Marks_Data_Entry.resources
+C:\Users\Ajeetk\Desktop\exceed.git\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Master_Password.resources
+C:\Users\Ajeetk\Desktop\exceed.git\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Profile_Report.resources
+C:\Users\Ajeetk\Desktop\exceed.git\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Reports.resources
+C:\Users\Ajeetk\Desktop\exceed.git\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Resources.resources
+C:\Users\Ajeetk\Desktop\exceed.git\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Individual_Report_Form.resources
+C:\Users\Ajeetk\Desktop\exceed.git\Exceed\Shree_Edu\obj\Debug\ShreeEducation.assignment.resources
+C:\Users\Ajeetk\Desktop\exceed.git\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Select_Action.resources
+C:\Users\Ajeetk\Desktop\exceed.git\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Student_Reg.resources
+C:\Users\Ajeetk\Desktop\exceed.git\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Verification_By_Email.resources
+C:\Users\Ajeetk\Desktop\exceed.git\Exceed\Shree_Edu\obj\Debug\Exceed.vbproj.GenerateResource.Cache
+C:\Users\Ajeetk\Desktop\exveedbackup\exceed.git\Exceed\Shree_Edu\bin\Debug\Shree_Edu.exe.config
+C:\Users\Ajeetk\Desktop\exveedbackup\exceed.git\Exceed\Shree_Edu\obj\Debug\Shree_Edu.exe
+C:\Users\Ajeetk\Desktop\exveedbackup\exceed.git\Exceed\Shree_Edu\obj\Debug\Shree_Edu.xml
+C:\Users\Ajeetk\Desktop\exveedbackup\exceed.git\Exceed\Shree_Edu\obj\Debug\Shree_Edu.pdb
+C:\Users\Ajeetk\Desktop\exveedbackup\exceed.git\Exceed\Shree_Edu\bin\Debug\Shree_Edu.exe
+C:\Users\Ajeetk\Desktop\exveedbackup\exceed.git\Exceed\Shree_Edu\bin\Debug\Shree_Edu.pdb
+C:\Users\Ajeetk\Desktop\exveedbackup\exceed.git\Exceed\Shree_Edu\bin\Debug\Shree_Edu.xml
+C:\Users\Ajeetk\Desktop\exveedbackup\exceed.git\Exceed\Shree_Edu\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ajeetk\Desktop\exveedbackup\exceed.git\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Add_Class.resources
+C:\Users\Ajeetk\Desktop\exveedbackup\exceed.git\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Add_discount.resources
+C:\Users\Ajeetk\Desktop\exveedbackup\exceed.git\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Add_Test.resources
+C:\Users\Ajeetk\Desktop\exveedbackup\exceed.git\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Add_User.resources
+C:\Users\Ajeetk\Desktop\exveedbackup\exceed.git\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Ask_Add_Delete_User.resources
+C:\Users\Ajeetk\Desktop\exveedbackup\exceed.git\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Change_Pwd.resources
+C:\Users\Ajeetk\Desktop\exveedbackup\exceed.git\Exceed\Shree_Edu\obj\Debug\ShreeEducation.classwise_graphicalform.resources
+C:\Users\Ajeetk\Desktop\exveedbackup\exceed.git\Exceed\Shree_Edu\obj\Debug\ShreeEducation.class_report.resources
+C:\Users\Ajeetk\Desktop\exveedbackup\exceed.git\Exceed\Shree_Edu\obj\Debug\ShreeEducation.emailtest.resources
+C:\Users\Ajeetk\Desktop\exveedbackup\exceed.git\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Fees_Report.resources
+C:\Users\Ajeetk\Desktop\exveedbackup\exceed.git\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Fees_status.resources
+C:\Users\Ajeetk\Desktop\exveedbackup\exceed.git\Exceed\Shree_Edu\obj\Debug\ShreeEducation.FogortPasswordForm.resources
+C:\Users\Ajeetk\Desktop\exveedbackup\exceed.git\Exceed\Shree_Edu\obj\Debug\ShreeEducation.forgotChangePassword.resources
+C:\Users\Ajeetk\Desktop\exveedbackup\exceed.git\Exceed\Shree_Edu\obj\Debug\ShreeEducation.loginForm.resources
+C:\Users\Ajeetk\Desktop\exveedbackup\exceed.git\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Marks_Data_Entry.resources
+C:\Users\Ajeetk\Desktop\exveedbackup\exceed.git\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Master_Password.resources
+C:\Users\Ajeetk\Desktop\exveedbackup\exceed.git\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Profile_Report.resources
+C:\Users\Ajeetk\Desktop\exveedbackup\exceed.git\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Reports.resources
+C:\Users\Ajeetk\Desktop\exveedbackup\exceed.git\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Resources.resources
+C:\Users\Ajeetk\Desktop\exveedbackup\exceed.git\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Individual_Report_Form.resources
+C:\Users\Ajeetk\Desktop\exveedbackup\exceed.git\Exceed\Shree_Edu\obj\Debug\ShreeEducation.assignment.resources
+C:\Users\Ajeetk\Desktop\exveedbackup\exceed.git\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Select_Action.resources
+C:\Users\Ajeetk\Desktop\exveedbackup\exceed.git\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Student_Reg.resources
+C:\Users\Ajeetk\Desktop\exveedbackup\exceed.git\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Verification_By_Email.resources
+C:\Users\Ajeetk\Desktop\exveedbackup\exceed.git\Exceed\Shree_Edu\obj\Debug\Exceed.vbproj.GenerateResource.Cache
+C:\Users\Nitesh\Desktop\exveedbackup\exceed.git\Exceed\Shree_Edu\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nitesh\Desktop\exveedbackup\exceed.git\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Add_Class.resources
+C:\Users\Nitesh\Desktop\exveedbackup\exceed.git\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Add_Test.resources
+C:\Users\Nitesh\Desktop\exveedbackup\exceed.git\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Add_User.resources
+C:\Users\Nitesh\Desktop\exveedbackup\exceed.git\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Ask_Add_Delete_User.resources
+C:\Users\Nitesh\Desktop\exveedbackup\exceed.git\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Assignmentform.resources
+C:\Users\Nitesh\Desktop\exveedbackup\exceed.git\Exceed\Shree_Edu\obj\Debug\ShreeEducation.assignment.resources
+C:\Users\Nitesh\Desktop\exveedbackup\exceed.git\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Change_Pwd.resources
+C:\Users\Nitesh\Desktop\exveedbackup\exceed.git\Exceed\Shree_Edu\obj\Debug\ShreeEducation.classwise_graphicalform.resources
+C:\Users\Nitesh\Desktop\exveedbackup\exceed.git\Exceed\Shree_Edu\obj\Debug\ShreeEducation.class_report.resources
+C:\Users\Nitesh\Desktop\exveedbackup\exceed.git\Exceed\Shree_Edu\obj\Debug\ShreeEducation.emailtest.resources
+C:\Users\Nitesh\Desktop\exveedbackup\exceed.git\Exceed\Shree_Edu\obj\Debug\ShreeEducation.faculty.resources
+C:\Users\Nitesh\Desktop\exveedbackup\exceed.git\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Fees_Report.resources
+C:\Users\Nitesh\Desktop\exveedbackup\exceed.git\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Fees_status.resources
+C:\Users\Nitesh\Desktop\exveedbackup\exceed.git\Exceed\Shree_Edu\obj\Debug\ShreeEducation.FogortPasswordForm.resources
+C:\Users\Nitesh\Desktop\exveedbackup\exceed.git\Exceed\Shree_Edu\obj\Debug\ShreeEducation.forgotChangePassword.resources
+C:\Users\Nitesh\Desktop\exveedbackup\exceed.git\Exceed\Shree_Edu\obj\Debug\ShreeEducation.loginForm.resources
+C:\Users\Nitesh\Desktop\exveedbackup\exceed.git\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Marks_Data_Entry.resources
+C:\Users\Nitesh\Desktop\exveedbackup\exceed.git\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Master_Password.resources
+C:\Users\Nitesh\Desktop\exveedbackup\exceed.git\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Profile_Report.resources
+C:\Users\Nitesh\Desktop\exveedbackup\exceed.git\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Reports.resources
+C:\Users\Nitesh\Desktop\exveedbackup\exceed.git\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Resources.resources
+C:\Users\Nitesh\Desktop\exveedbackup\exceed.git\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Individual_Report_Form.resources
+C:\Users\Nitesh\Desktop\exveedbackup\exceed.git\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Select_Action.resources
+C:\Users\Nitesh\Desktop\exveedbackup\exceed.git\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Student_Reg.resources
+C:\Users\Nitesh\Desktop\exveedbackup\exceed.git\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Study_Materialform.resources
+C:\Users\Nitesh\Desktop\exveedbackup\exceed.git\Exceed\Shree_Edu\obj\Debug\Exceed.vbproj.GenerateResource.Cache
+C:\Users\Nitesh\Desktop\exveedbackup\exceed.git\Exceed\Shree_Edu\bin\Debug\Shree_Edu.exe.config
+C:\Users\Nitesh\Desktop\exveedbackup\exceed.git\Exceed\Shree_Edu\bin\Debug\Shree_Edu.exe
+C:\Users\Nitesh\Desktop\exveedbackup\exceed.git\Exceed\Shree_Edu\bin\Debug\Shree_Edu.pdb
+C:\Users\Nitesh\Desktop\exveedbackup\exceed.git\Exceed\Shree_Edu\bin\Debug\Shree_Edu.xml
+C:\Users\Nitesh\Desktop\exveedbackup\exceed.git\Exceed\Shree_Edu\obj\Debug\Shree_Edu.exe
+C:\Users\Nitesh\Desktop\exveedbackup\exceed.git\Exceed\Shree_Edu\obj\Debug\Shree_Edu.xml
+C:\Users\Nitesh\Desktop\exveedbackup\exceed.git\Exceed\Shree_Edu\obj\Debug\Shree_Edu.pdb
+C:\Users\Nitesh\Desktop\exveedbackup\exceed\Exceed\Shree_Edu\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nitesh\Desktop\exveedbackup\exceed\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Add_Class.resources
+C:\Users\Nitesh\Desktop\exveedbackup\exceed\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Add_Test.resources
+C:\Users\Nitesh\Desktop\exveedbackup\exceed\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Add_User.resources
+C:\Users\Nitesh\Desktop\exveedbackup\exceed\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Ask_Add_Delete_User.resources
+C:\Users\Nitesh\Desktop\exveedbackup\exceed\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Assignmentform.resources
+C:\Users\Nitesh\Desktop\exveedbackup\exceed\Exceed\Shree_Edu\obj\Debug\ShreeEducation.assignment.resources
+C:\Users\Nitesh\Desktop\exveedbackup\exceed\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Change_Pwd.resources
+C:\Users\Nitesh\Desktop\exveedbackup\exceed\Exceed\Shree_Edu\obj\Debug\ShreeEducation.classwise_graphicalform.resources
+C:\Users\Nitesh\Desktop\exveedbackup\exceed\Exceed\Shree_Edu\obj\Debug\ShreeEducation.class_report.resources
+C:\Users\Nitesh\Desktop\exveedbackup\exceed\Exceed\Shree_Edu\obj\Debug\ShreeEducation.emailtest.resources
+C:\Users\Nitesh\Desktop\exveedbackup\exceed\Exceed\Shree_Edu\obj\Debug\ShreeEducation.faculty.resources
+C:\Users\Nitesh\Desktop\exveedbackup\exceed\Exceed\Shree_Edu\obj\Debug\ShreeEducation.facultyreport.resources
+C:\Users\Nitesh\Desktop\exveedbackup\exceed\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Fees_Report.resources
+C:\Users\Nitesh\Desktop\exveedbackup\exceed\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Fees_status.resources
+C:\Users\Nitesh\Desktop\exveedbackup\exceed\Exceed\Shree_Edu\obj\Debug\ShreeEducation.FogortPasswordForm.resources
+C:\Users\Nitesh\Desktop\exveedbackup\exceed\Exceed\Shree_Edu\obj\Debug\ShreeEducation.forgotChangePassword.resources
+C:\Users\Nitesh\Desktop\exveedbackup\exceed\Exceed\Shree_Edu\obj\Debug\ShreeEducation.loginForm.resources
+C:\Users\Nitesh\Desktop\exveedbackup\exceed\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Marks_Data_Entry.resources
+C:\Users\Nitesh\Desktop\exveedbackup\exceed\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Master_Password.resources
+C:\Users\Nitesh\Desktop\exveedbackup\exceed\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Profile_Report.resources
+C:\Users\Nitesh\Desktop\exveedbackup\exceed\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Reports.resources
+C:\Users\Nitesh\Desktop\exveedbackup\exceed\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Individual_Report_Form.resources
+C:\Users\Nitesh\Desktop\exveedbackup\exceed\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Select_Action.resources
+C:\Users\Nitesh\Desktop\exveedbackup\exceed\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Student_Reg.resources
+C:\Users\Nitesh\Desktop\exveedbackup\exceed\Exceed\Shree_Edu\obj\Debug\ShreeEducation.studymaterialreport.resources
+C:\Users\Nitesh\Desktop\exveedbackup\exceed\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Study_Materialform.resources
+C:\Users\Nitesh\Desktop\exveedbackup\exceed\Exceed\Shree_Edu\obj\Debug\Exceed.vbproj.GenerateResource.Cache
+C:\Users\Nitesh\Desktop\exveedbackup\exceed\Exceed\Shree_Edu\bin\Debug\Shree_Edu.exe.config
+C:\Users\Nitesh\Desktop\exveedbackup\exceed\Exceed\Shree_Edu\bin\Debug\Shree_Edu.exe
+C:\Users\Nitesh\Desktop\exveedbackup\exceed\Exceed\Shree_Edu\bin\Debug\Shree_Edu.pdb
+C:\Users\Nitesh\Desktop\exveedbackup\exceed\Exceed\Shree_Edu\bin\Debug\Shree_Edu.xml
+C:\Users\Nitesh\Desktop\exveedbackup\exceed\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Resources.resources
+C:\Users\Nitesh\Desktop\exveedbackup\exceed\Exceed\Shree_Edu\obj\Debug\Shree_Edu.exe
+C:\Users\Nitesh\Desktop\exveedbackup\exceed\Exceed\Shree_Edu\obj\Debug\Shree_Edu.xml
+C:\Users\Nitesh\Desktop\exveedbackup\exceed\Exceed\Shree_Edu\obj\Debug\Shree_Edu.pdb
+C:\Users\Nitesh\Desktop\exceed\Exceed\Shree_Edu\bin\Debug\Shree_Edu.exe.config
+C:\Users\Nitesh\Desktop\exceed\Exceed\Shree_Edu\obj\Debug\Shree_Edu.exe
+C:\Users\Nitesh\Desktop\exceed\Exceed\Shree_Edu\obj\Debug\Shree_Edu.xml
+C:\Users\Nitesh\Desktop\exceed\Exceed\Shree_Edu\obj\Debug\Shree_Edu.pdb
+C:\Users\Nitesh\Desktop\exceed\Exceed\Shree_Edu\bin\Debug\Shree_Edu.exe
+C:\Users\Nitesh\Desktop\exceed\Exceed\Shree_Edu\bin\Debug\Shree_Edu.pdb
+C:\Users\Nitesh\Desktop\exceed\Exceed\Shree_Edu\bin\Debug\Shree_Edu.xml
+C:\Users\Nitesh\Desktop\exceed\Exceed\Shree_Edu\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nitesh\Desktop\exceed\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Add_Class.resources
+C:\Users\Nitesh\Desktop\exceed\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Add_Test.resources
+C:\Users\Nitesh\Desktop\exceed\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Add_User.resources
+C:\Users\Nitesh\Desktop\exceed\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Ask_Add_Delete_User.resources
+C:\Users\Nitesh\Desktop\exceed\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Assignmentform.resources
+C:\Users\Nitesh\Desktop\exceed\Exceed\Shree_Edu\obj\Debug\ShreeEducation.assignment.resources
+C:\Users\Nitesh\Desktop\exceed\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Change_Pwd.resources
+C:\Users\Nitesh\Desktop\exceed\Exceed\Shree_Edu\obj\Debug\ShreeEducation.classwise_graphicalform.resources
+C:\Users\Nitesh\Desktop\exceed\Exceed\Shree_Edu\obj\Debug\ShreeEducation.class_report.resources
+C:\Users\Nitesh\Desktop\exceed\Exceed\Shree_Edu\obj\Debug\ShreeEducation.emailtest.resources
+C:\Users\Nitesh\Desktop\exceed\Exceed\Shree_Edu\obj\Debug\ShreeEducation.faculty.resources
+C:\Users\Nitesh\Desktop\exceed\Exceed\Shree_Edu\obj\Debug\ShreeEducation.facultyreport.resources
+C:\Users\Nitesh\Desktop\exceed\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Fees_Report.resources
+C:\Users\Nitesh\Desktop\exceed\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Fees_status.resources
+C:\Users\Nitesh\Desktop\exceed\Exceed\Shree_Edu\obj\Debug\ShreeEducation.FogortPasswordForm.resources
+C:\Users\Nitesh\Desktop\exceed\Exceed\Shree_Edu\obj\Debug\ShreeEducation.forgotChangePassword.resources
+C:\Users\Nitesh\Desktop\exceed\Exceed\Shree_Edu\obj\Debug\ShreeEducation.loginForm.resources
+C:\Users\Nitesh\Desktop\exceed\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Marks_Data_Entry.resources
+C:\Users\Nitesh\Desktop\exceed\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Master_Password.resources
+C:\Users\Nitesh\Desktop\exceed\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Profile_Report.resources
+C:\Users\Nitesh\Desktop\exceed\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Reports.resources
+C:\Users\Nitesh\Desktop\exceed\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Resources.resources
+C:\Users\Nitesh\Desktop\exceed\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Individual_Report_Form.resources
+C:\Users\Nitesh\Desktop\exceed\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Select_Action.resources
+C:\Users\Nitesh\Desktop\exceed\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Student_Reg.resources
+C:\Users\Nitesh\Desktop\exceed\Exceed\Shree_Edu\obj\Debug\ShreeEducation.studymaterialreport.resources
+C:\Users\Nitesh\Desktop\exceed\Exceed\Shree_Edu\obj\Debug\ShreeEducation.Study_Materialform.resources
+C:\Users\Nitesh\Desktop\exceed\Exceed\Shree_Edu\obj\Debug\Exceed.vbproj.GenerateResource.Cache
+E:\Projects\Exceed Institute Project\exceed\Shree_Edu\bin\Debug\Shree_Edu.exe.config
+E:\Projects\Exceed Institute Project\exceed\Shree_Edu\obj\Debug\Shree_Edu.exe
+E:\Projects\Exceed Institute Project\exceed\Shree_Edu\obj\Debug\Shree_Edu.xml
+E:\Projects\Exceed Institute Project\exceed\Shree_Edu\obj\Debug\Shree_Edu.pdb
+E:\Projects\Exceed Institute Project\exceed\Shree_Edu\bin\Debug\Shree_Edu.exe
+E:\Projects\Exceed Institute Project\exceed\Shree_Edu\bin\Debug\Shree_Edu.pdb
+E:\Projects\Exceed Institute Project\exceed\Shree_Edu\bin\Debug\Shree_Edu.xml
+E:\Projects\Exceed Institute Project\exceed\Shree_Edu\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\Exceed Institute Project\exceed\Shree_Edu\obj\Debug\ShreeEducation.Add_Class.resources
+E:\Projects\Exceed Institute Project\exceed\Shree_Edu\obj\Debug\ShreeEducation.Add_Test.resources
+E:\Projects\Exceed Institute Project\exceed\Shree_Edu\obj\Debug\ShreeEducation.Add_User.resources
+E:\Projects\Exceed Institute Project\exceed\Shree_Edu\obj\Debug\ShreeEducation.Ask_Add_Delete_User.resources
+E:\Projects\Exceed Institute Project\exceed\Shree_Edu\obj\Debug\ShreeEducation.Assignmentform.resources
+E:\Projects\Exceed Institute Project\exceed\Shree_Edu\obj\Debug\ShreeEducation.assignment.resources
+E:\Projects\Exceed Institute Project\exceed\Shree_Edu\obj\Debug\ShreeEducation.Change_Pwd.resources
+E:\Projects\Exceed Institute Project\exceed\Shree_Edu\obj\Debug\ShreeEducation.classwise_graphicalform.resources
+E:\Projects\Exceed Institute Project\exceed\Shree_Edu\obj\Debug\ShreeEducation.class_report.resources
+E:\Projects\Exceed Institute Project\exceed\Shree_Edu\obj\Debug\ShreeEducation.emailtest.resources
+E:\Projects\Exceed Institute Project\exceed\Shree_Edu\obj\Debug\ShreeEducation.faculty.resources
+E:\Projects\Exceed Institute Project\exceed\Shree_Edu\obj\Debug\ShreeEducation.facultyreport.resources
+E:\Projects\Exceed Institute Project\exceed\Shree_Edu\obj\Debug\ShreeEducation.Fees_Report.resources
+E:\Projects\Exceed Institute Project\exceed\Shree_Edu\obj\Debug\ShreeEducation.Fees_status.resources
+E:\Projects\Exceed Institute Project\exceed\Shree_Edu\obj\Debug\ShreeEducation.FogortPasswordForm.resources
+E:\Projects\Exceed Institute Project\exceed\Shree_Edu\obj\Debug\ShreeEducation.forgotChangePassword.resources
+E:\Projects\Exceed Institute Project\exceed\Shree_Edu\obj\Debug\ShreeEducation.loginForm.resources
+E:\Projects\Exceed Institute Project\exceed\Shree_Edu\obj\Debug\ShreeEducation.Marks_Data_Entry.resources
+E:\Projects\Exceed Institute Project\exceed\Shree_Edu\obj\Debug\ShreeEducation.Master_Password.resources
+E:\Projects\Exceed Institute Project\exceed\Shree_Edu\obj\Debug\ShreeEducation.Profile_Report.resources
+E:\Projects\Exceed Institute Project\exceed\Shree_Edu\obj\Debug\ShreeEducation.Reports.resources
+E:\Projects\Exceed Institute Project\exceed\Shree_Edu\obj\Debug\ShreeEducation.Resources.resources
+E:\Projects\Exceed Institute Project\exceed\Shree_Edu\obj\Debug\ShreeEducation.Individual_Report_Form.resources
+E:\Projects\Exceed Institute Project\exceed\Shree_Edu\obj\Debug\ShreeEducation.Select_Action.resources
+E:\Projects\Exceed Institute Project\exceed\Shree_Edu\obj\Debug\ShreeEducation.Student_Reg.resources
+E:\Projects\Exceed Institute Project\exceed\Shree_Edu\obj\Debug\ShreeEducation.studymaterialreport.resources
+E:\Projects\Exceed Institute Project\exceed\Shree_Edu\obj\Debug\ShreeEducation.Study_Materialform.resources
+E:\Projects\Exceed Institute Project\exceed\Shree_Edu\obj\Debug\Exceed.vbproj.GenerateResource.Cache

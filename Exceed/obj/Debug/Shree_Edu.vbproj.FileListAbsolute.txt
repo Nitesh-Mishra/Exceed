@@ -1,0 +1,603 @@
+C:\Documents and Settings\Ankit\Local Settings\Application Data\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Documents and Settings\Ankit\Local Settings\Application Data\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Documents and Settings\Ankit\Local Settings\Application Data\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Documents and Settings\Ankit\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ankit\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\Ankit\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\Debug\Shree_Edu.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Ankit\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Documents and Settings\Ankit\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Documents and Settings\Ankit\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Documents and Settings\Ankit\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Shree_Front_UI.resources
+C:\Documents and Settings\Ankit\My Documents\Visual Studio 2008\Projects\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.exe
+C:\Documents and Settings\Ankit\My Documents\Visual Studio 2008\Projects\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.pdb
+C:\Documents and Settings\Ankit\My Documents\Visual Studio 2008\Projects\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.xml
+C:\Documents and Settings\Ankit\My Documents\Visual Studio 2008\Projects\Shree_Edu\Shree_Edu\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ankit\My Documents\Visual Studio 2008\Projects\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\Ankit\My Documents\Visual Studio 2008\Projects\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Ankit\My Documents\Visual Studio 2008\Projects\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.exe
+C:\Documents and Settings\Ankit\My Documents\Visual Studio 2008\Projects\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.xml
+C:\Documents and Settings\Ankit\My Documents\Visual Studio 2008\Projects\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.pdb
+C:\Documents and Settings\Ankit\My Documents\Visual Studio 2008\Projects\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.ssui.resources
+C:\Documents and Settings\Ankit\My Documents\Visual Studio 2008\Projects\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.loginForm.resources
+C:\Documents and Settings\Ankit\My Documents\Visual Studio 2008\Projects\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.ShreeEducation.resources
+C:\Documents and Settings\Ankit\My Documents\Visual Studio 2008\Projects\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Add_Entries.resources
+C:\Documents and Settings\Ankit\My Documents\Visual Studio 2008\Projects\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Login_Select_Action.resources
+C:\Documents and Settings\Ankit\My Documents\Visual Studio 2008\Projects\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Select_Action.resources
+C:\Documents and Settings\Ankit\My Documents\Visual Studio 2008\Projects\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.view_profile.resources
+C:\Documents and Settings\Ankit\My Documents\Visual Studio 2008\Projects\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Class_Info.resources
+C:\Documents and Settings\Ankit\My Documents\Visual Studio 2008\Projects\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Student_Info.resources
+C:\Documents and Settings\Ankit\My Documents\Visual Studio 2008\Projects\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.year_Info.resources
+C:\Documents and Settings\Ankit\My Documents\Visual Studio 2008\Projects\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Fees_Structure.resources
+C:\Documents and Settings\Ankit\My Documents\Visual Studio 2008\Projects\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Subjects_Info.resources
+C:\Documents and Settings\Ankit\My Documents\Visual Studio 2008\Projects\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.exe.config
+C:\Documents and Settings\Ankit\My Documents\Visual Studio 2008\Projects\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.AddEntry.resources
+D:\ankit\My Test\Visual Studio 2008\Projects\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.exe.config
+D:\ankit\My Test\Visual Studio 2008\Projects\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.exe
+D:\ankit\My Test\Visual Studio 2008\Projects\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.xml
+D:\ankit\My Test\Visual Studio 2008\Projects\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.pdb
+D:\ankit\My Test\Visual Studio 2008\Projects\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.exe
+D:\ankit\My Test\Visual Studio 2008\Projects\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.pdb
+D:\ankit\My Test\Visual Studio 2008\Projects\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.xml
+D:\ankit\My Test\Visual Studio 2008\Projects\Shree_Edu\Shree_Edu\obj\Debug\ResolveAssemblyReference.cache
+D:\ankit\My Test\Visual Studio 2008\Projects\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.AddEntry.resources
+D:\ankit\My Test\Visual Studio 2008\Projects\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Add_Entries.resources
+D:\ankit\My Test\Visual Studio 2008\Projects\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Class_Info.resources
+D:\ankit\My Test\Visual Studio 2008\Projects\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Fees_Structure.resources
+D:\ankit\My Test\Visual Studio 2008\Projects\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Login_Select_Action.resources
+D:\ankit\My Test\Visual Studio 2008\Projects\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Select_Action.resources
+D:\ankit\My Test\Visual Studio 2008\Projects\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.loginForm.resources
+D:\ankit\My Test\Visual Studio 2008\Projects\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.ShreeEducation.resources
+D:\ankit\My Test\Visual Studio 2008\Projects\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.ssui.resources
+D:\ankit\My Test\Visual Studio 2008\Projects\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Resources.resources
+D:\ankit\My Test\Visual Studio 2008\Projects\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Student_Info.resources
+D:\ankit\My Test\Visual Studio 2008\Projects\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Subjects_Info.resources
+D:\ankit\My Test\Visual Studio 2008\Projects\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.view_profile.resources
+D:\ankit\My Test\Visual Studio 2008\Projects\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.year_Info.resources
+D:\ankit\My Test\Visual Studio 2008\Projects\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.vbproj.GenerateResource.Cache
+H:\8 sem project\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.exe.config
+H:\8 sem project\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.exe
+H:\8 sem project\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.xml
+H:\8 sem project\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.pdb
+H:\8 sem project\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.exe
+H:\8 sem project\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.pdb
+H:\8 sem project\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.xml
+H:\8 sem project\Shree_Edu\Shree_Edu\obj\Debug\ResolveAssemblyReference.cache
+H:\8 sem project\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.AddEntry.resources
+H:\8 sem project\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Add_Entries.resources
+H:\8 sem project\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Class_Info.resources
+H:\8 sem project\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Fees_Structure.resources
+H:\8 sem project\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Login_Select_Action.resources
+H:\8 sem project\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Select_Action.resources
+H:\8 sem project\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.loginForm.resources
+H:\8 sem project\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.ShreeEducation.resources
+H:\8 sem project\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.ssui.resources
+H:\8 sem project\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Resources.resources
+H:\8 sem project\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Student_Info.resources
+H:\8 sem project\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Subjects_Info.resources
+H:\8 sem project\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.view_profile.resources
+H:\8 sem project\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.year_Info.resources
+H:\8 sem project\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.vbproj.GenerateResource.Cache
+E:\8 sem project\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.exe.config
+E:\8 sem project\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.exe
+E:\8 sem project\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.xml
+E:\8 sem project\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.pdb
+E:\8 sem project\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.exe
+E:\8 sem project\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.pdb
+E:\8 sem project\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.xml
+E:\8 sem project\Shree_Edu\Shree_Edu\obj\Debug\ResolveAssemblyReference.cache
+E:\8 sem project\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Class_Info.resources
+E:\8 sem project\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Login_Select_Action.resources
+E:\8 sem project\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Select_Action.resources
+E:\8 sem project\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.loginForm.resources
+E:\8 sem project\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.ShreeEducation.resources
+E:\8 sem project\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.ssui.resources
+E:\8 sem project\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Resources.resources
+E:\8 sem project\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Student_Info.resources
+E:\8 sem project\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.vbproj.GenerateResource.Cache
+E:\8 sem project\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Change_Pwd.resources
+E:\8 sem project\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Stud_AddSub.resources
+K:\10-3-2013\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.exe.config
+K:\10-3-2013\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.exe
+K:\10-3-2013\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.xml
+K:\10-3-2013\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.pdb
+K:\10-3-2013\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.exe
+K:\10-3-2013\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.pdb
+K:\10-3-2013\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.xml
+K:\10-3-2013\Shree_Edu\Shree_Edu\obj\Debug\ResolveAssemblyReference.cache
+K:\10-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Stud_AddSub.resources
+K:\10-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Change_Pwd.resources
+K:\10-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Class_Info.resources
+K:\10-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Login_Select_Action.resources
+K:\10-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Select_Action.resources
+K:\10-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.loginForm.resources
+K:\10-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.ShreeEducation.resources
+K:\10-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.ssui.resources
+K:\10-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Resources.resources
+K:\10-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Student_Info.resources
+K:\10-3-2013\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\10-3-2013\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.exe.config
+C:\Documents and Settings\Administrator\Desktop\10-3-2013\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.exe
+C:\Documents and Settings\Administrator\Desktop\10-3-2013\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.xml
+C:\Documents and Settings\Administrator\Desktop\10-3-2013\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.pdb
+C:\Documents and Settings\Administrator\Desktop\10-3-2013\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.exe
+C:\Documents and Settings\Administrator\Desktop\10-3-2013\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.pdb
+C:\Documents and Settings\Administrator\Desktop\10-3-2013\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.xml
+C:\Documents and Settings\Administrator\Desktop\10-3-2013\Shree_Edu\Shree_Edu\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\10-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Stud_AddSub.resources
+C:\Documents and Settings\Administrator\Desktop\10-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Change_Pwd.resources
+C:\Documents and Settings\Administrator\Desktop\10-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Class_Info.resources
+C:\Documents and Settings\Administrator\Desktop\10-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Login_Select_Action.resources
+C:\Documents and Settings\Administrator\Desktop\10-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Select_Action.resources
+C:\Documents and Settings\Administrator\Desktop\10-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.loginForm.resources
+C:\Documents and Settings\Administrator\Desktop\10-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.ShreeEducation.resources
+C:\Documents and Settings\Administrator\Desktop\10-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.ssui.resources
+C:\Documents and Settings\Administrator\Desktop\10-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\10-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Student_Info.resources
+C:\Documents and Settings\Administrator\Desktop\10-3-2013\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.vbproj.GenerateResource.Cache
+C:\Users\Nitesh\Desktop\11-3-2013\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.exe.config
+C:\Users\Nitesh\Desktop\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.exe
+C:\Users\Nitesh\Desktop\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.xml
+C:\Users\Nitesh\Desktop\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.pdb
+C:\Users\Nitesh\Desktop\11-3-2013\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.exe
+C:\Users\Nitesh\Desktop\11-3-2013\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.pdb
+C:\Users\Nitesh\Desktop\11-3-2013\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.xml
+C:\Users\Nitesh\Desktop\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nitesh\Desktop\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Add_Test.resources
+C:\Users\Nitesh\Desktop\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Stud_AddSub.resources
+C:\Users\Nitesh\Desktop\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Change_Pwd.resources
+C:\Users\Nitesh\Desktop\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Class_Add.resources
+C:\Users\Nitesh\Desktop\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Login_Select_Action.resources
+C:\Users\Nitesh\Desktop\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Select_Action.resources
+C:\Users\Nitesh\Desktop\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.loginForm.resources
+C:\Users\Nitesh\Desktop\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.ShreeEducation.resources
+C:\Users\Nitesh\Desktop\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Nitesh\Desktop\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Student_Info.resources
+C:\Users\Nitesh\Desktop\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Marks_Data_Entry.resources
+C:\Users\Nitesh\Desktop\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.vbproj.GenerateResource.Cache
+K:\11-3-2013\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.exe.config
+K:\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.exe
+K:\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.xml
+K:\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.pdb
+K:\11-3-2013\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.exe
+K:\11-3-2013\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.pdb
+K:\11-3-2013\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.xml
+K:\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\ResolveAssemblyReference.cache
+K:\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Add_Test.resources
+K:\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Stud_AddSub.resources
+K:\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Change_Pwd.resources
+K:\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Class_Add.resources
+K:\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Login_Select_Action.resources
+K:\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Select_Action.resources
+K:\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.loginForm.resources
+K:\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.ShreeEducation.resources
+K:\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Resources.resources
+K:\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Student_Info.resources
+K:\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Marks_Data_Entry.resources
+K:\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.vbproj.GenerateResource.Cache
+E:\11-3-2013\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.exe.config
+E:\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.exe
+E:\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.xml
+E:\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.pdb
+E:\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\ResolveAssemblyReference.cache
+E:\11-3-2013\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.exe
+E:\11-3-2013\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.pdb
+E:\11-3-2013\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.xml
+E:\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Stud_AddSub.resources
+E:\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Change_Pwd.resources
+E:\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Class_Add.resources
+E:\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Login_Select_Action.resources
+E:\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Select_Action.resources
+E:\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.loginForm.resources
+E:\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.ShreeEducation.resources
+E:\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Resources.resources
+E:\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Student_Info.resources
+E:\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Marks_Data_Entry.resources
+E:\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\11-3-2013\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.exe.config
+C:\Documents and Settings\Administrator\Desktop\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.exe
+C:\Documents and Settings\Administrator\Desktop\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.xml
+C:\Documents and Settings\Administrator\Desktop\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.pdb
+C:\Documents and Settings\Administrator\Desktop\11-3-2013\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.exe
+C:\Documents and Settings\Administrator\Desktop\11-3-2013\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.pdb
+C:\Documents and Settings\Administrator\Desktop\11-3-2013\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.xml
+C:\Documents and Settings\Administrator\Desktop\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Stud_AddSub.resources
+C:\Documents and Settings\Administrator\Desktop\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Change_Pwd.resources
+C:\Documents and Settings\Administrator\Desktop\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Class_Add.resources
+C:\Documents and Settings\Administrator\Desktop\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Select_Action.resources
+C:\Documents and Settings\Administrator\Desktop\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.loginForm.resources
+C:\Documents and Settings\Administrator\Desktop\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.ShreeEducation.resources
+C:\Documents and Settings\Administrator\Desktop\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Student_Info.resources
+C:\Documents and Settings\Administrator\Desktop\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Marks_Data_Entry.resources
+C:\Documents and Settings\Administrator\Desktop\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Add_Test.resources
+C:\Documents and Settings\xp user\Desktop\New Folder\11-3-2013\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.exe.config
+C:\Documents and Settings\xp user\Desktop\New Folder\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.exe
+C:\Documents and Settings\xp user\Desktop\New Folder\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.xml
+C:\Documents and Settings\xp user\Desktop\New Folder\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.pdb
+C:\Documents and Settings\xp user\Desktop\New Folder\11-3-2013\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.exe
+C:\Documents and Settings\xp user\Desktop\New Folder\11-3-2013\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.pdb
+C:\Documents and Settings\xp user\Desktop\New Folder\11-3-2013\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.xml
+C:\Documents and Settings\xp user\Desktop\New Folder\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\xp user\Desktop\New Folder\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Add_Test.resources
+C:\Documents and Settings\xp user\Desktop\New Folder\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Stud_AddSub.resources
+C:\Documents and Settings\xp user\Desktop\New Folder\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Change_Pwd.resources
+C:\Documents and Settings\xp user\Desktop\New Folder\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Class_Add.resources
+C:\Documents and Settings\xp user\Desktop\New Folder\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Select_Action.resources
+C:\Documents and Settings\xp user\Desktop\New Folder\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.loginForm.resources
+C:\Documents and Settings\xp user\Desktop\New Folder\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.ShreeEducation.resources
+C:\Documents and Settings\xp user\Desktop\New Folder\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\xp user\Desktop\New Folder\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Student_Info.resources
+C:\Documents and Settings\xp user\Desktop\New Folder\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Marks_Data_Entry.resources
+C:\Documents and Settings\xp user\Desktop\New Folder\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.vbproj.GenerateResource.Cache
+K:\New Folder\11-3-2013\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.exe.config
+K:\New Folder\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.exe
+K:\New Folder\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.xml
+K:\New Folder\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.pdb
+K:\New Folder\11-3-2013\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.exe
+K:\New Folder\11-3-2013\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.pdb
+K:\New Folder\11-3-2013\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.xml
+K:\New Folder\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\ResolveAssemblyReference.cache
+K:\New Folder\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Add_Test.resources
+K:\New Folder\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Stud_AddSub.resources
+K:\New Folder\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Change_Pwd.resources
+K:\New Folder\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Class_Add.resources
+K:\New Folder\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Select_Action.resources
+K:\New Folder\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.loginForm.resources
+K:\New Folder\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.ShreeEducation.resources
+K:\New Folder\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Resources.resources
+K:\New Folder\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Student_Info.resources
+K:\New Folder\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Marks_Data_Entry.resources
+K:\New Folder\11-3-2013\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.vbproj.GenerateResource.Cache
+D:\Projects\Shree\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.exe.config
+D:\Projects\Shree\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.exe
+D:\Projects\Shree\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.pdb
+D:\Projects\Shree\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.xml
+D:\Projects\Shree\Shree_Edu\Shree_Edu\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Add_Test.resources
+D:\Projects\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Profile_Report.resources
+D:\Projects\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Stud_AddSub.resources
+D:\Projects\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Change_Pwd.resources
+D:\Projects\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Class_Add.resources
+D:\Projects\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Select_Action.resources
+D:\Projects\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.loginForm.resources
+D:\Projects\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Resources.resources
+D:\Projects\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Student_Info.resources
+D:\Projects\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Marks_Data_Entry.resources
+D:\Projects\Shree\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.vbproj.GenerateResource.Cache
+D:\Projects\Shree\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.exe
+D:\Projects\Shree\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.xml
+D:\Projects\Shree\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.pdb
+F:\Projects\Shree Education\original\Shree\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.exe.config
+F:\Projects\Shree Education\original\Shree\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.exe
+F:\Projects\Shree Education\original\Shree\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.xml
+F:\Projects\Shree Education\original\Shree\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.pdb
+F:\Projects\Shree Education\original\Shree\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.exe
+F:\Projects\Shree Education\original\Shree\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.pdb
+F:\Projects\Shree Education\original\Shree\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.xml
+F:\Projects\Shree Education\original\Shree\Shree_Edu\Shree_Edu\obj\Debug\ResolveAssemblyReference.cache
+F:\Projects\Shree Education\original\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Add_Test.resources
+F:\Projects\Shree Education\original\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Profile_Report.resources
+F:\Projects\Shree Education\original\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Stud_AddSub.resources
+F:\Projects\Shree Education\original\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Change_Pwd.resources
+F:\Projects\Shree Education\original\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Class_Add.resources
+F:\Projects\Shree Education\original\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Select_Action.resources
+F:\Projects\Shree Education\original\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.loginForm.resources
+F:\Projects\Shree Education\original\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Student_Detail.resources
+F:\Projects\Shree Education\original\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Resources.resources
+F:\Projects\Shree Education\original\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Student_Info.resources
+F:\Projects\Shree Education\original\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Marks_Data_Entry.resources
+F:\Projects\Shree Education\original\Shree\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.vbproj.GenerateResource.Cache
+F:\Projects\Shree Education\original\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.View_Profile.resources
+E:\Projects\Shree Education\original\Shree\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.exe.config
+E:\Projects\Shree Education\original\Shree\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.exe
+E:\Projects\Shree Education\original\Shree\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.xml
+E:\Projects\Shree Education\original\Shree\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.pdb
+E:\Projects\Shree Education\original\Shree\Shree_Edu\Shree_Edu\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\Shree Education\original\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Add_Test.resources
+E:\Projects\Shree Education\original\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Profile_Report.resources
+E:\Projects\Shree Education\original\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Stud_AddSub.resources
+E:\Projects\Shree Education\original\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Change_Pwd.resources
+E:\Projects\Shree Education\original\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Class_Add.resources
+E:\Projects\Shree Education\original\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Select_Action.resources
+E:\Projects\Shree Education\original\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.loginForm.resources
+E:\Projects\Shree Education\original\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Student_Detail.resources
+E:\Projects\Shree Education\original\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Resources.resources
+E:\Projects\Shree Education\original\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Student_Info.resources
+E:\Projects\Shree Education\original\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Marks_Data_Entry.resources
+E:\Projects\Shree Education\original\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.View_Profile.resources
+E:\Projects\Shree Education\original\Shree\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.vbproj.GenerateResource.Cache
+E:\Projects\Shree Education\original\Shree\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.exe
+E:\Projects\Shree Education\original\Shree\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.pdb
+E:\Projects\Shree Education\original\Shree\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.xml
+D:\Projects\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Student_Detail.resources
+D:\Projects\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.View_Profile.resources
+K:\Shree\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.exe.config
+K:\Shree\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.exe
+K:\Shree\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.xml
+K:\Shree\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.pdb
+K:\Shree\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.exe
+K:\Shree\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.pdb
+K:\Shree\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.xml
+K:\Shree\Shree_Edu\Shree_Edu\obj\Debug\ResolveAssemblyReference.cache
+K:\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Add_Test.resources
+K:\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Profile_Report.resources
+K:\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Stud_AddSub.resources
+K:\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Change_Pwd.resources
+K:\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Class_Add.resources
+K:\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Select_Action.resources
+K:\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.loginForm.resources
+K:\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Student_Detail.resources
+K:\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Resources.resources
+K:\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Student_Info.resources
+K:\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Marks_Data_Entry.resources
+K:\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.View_Profile.resources
+K:\Shree\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Nitesh.NITESH-872DF234\Desktop\Shree\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.exe.config
+C:\Documents and Settings\Nitesh.NITESH-872DF234\Desktop\Shree\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.exe
+C:\Documents and Settings\Nitesh.NITESH-872DF234\Desktop\Shree\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.xml
+C:\Documents and Settings\Nitesh.NITESH-872DF234\Desktop\Shree\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.pdb
+C:\Documents and Settings\Nitesh.NITESH-872DF234\Desktop\ajeet\Shree\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.exe.config
+C:\Documents and Settings\Nitesh.NITESH-872DF234\Desktop\ajeet\Shree\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.exe
+C:\Documents and Settings\Nitesh.NITESH-872DF234\Desktop\ajeet\Shree\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.xml
+C:\Documents and Settings\Nitesh.NITESH-872DF234\Desktop\ajeet\Shree\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.pdb
+C:\Documents and Settings\Nitesh.NITESH-872DF234\Desktop\ajeet\Shree\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.exe
+C:\Documents and Settings\Nitesh.NITESH-872DF234\Desktop\ajeet\Shree\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.pdb
+C:\Documents and Settings\Nitesh.NITESH-872DF234\Desktop\ajeet\Shree\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.xml
+C:\Documents and Settings\Nitesh.NITESH-872DF234\Desktop\ajeet\Shree\Shree_Edu\Shree_Edu\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Nitesh.NITESH-872DF234\Desktop\ajeet\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Add_Test.resources
+C:\Documents and Settings\Nitesh.NITESH-872DF234\Desktop\ajeet\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Profile_Report.resources
+C:\Documents and Settings\Nitesh.NITESH-872DF234\Desktop\ajeet\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Stud_AddSub.resources
+C:\Documents and Settings\Nitesh.NITESH-872DF234\Desktop\ajeet\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Change_Pwd.resources
+C:\Documents and Settings\Nitesh.NITESH-872DF234\Desktop\ajeet\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Class_Add.resources
+C:\Documents and Settings\Nitesh.NITESH-872DF234\Desktop\ajeet\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Select_Action.resources
+C:\Documents and Settings\Nitesh.NITESH-872DF234\Desktop\ajeet\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.loginForm.resources
+C:\Documents and Settings\Nitesh.NITESH-872DF234\Desktop\ajeet\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Student_Detail.resources
+C:\Documents and Settings\Nitesh.NITESH-872DF234\Desktop\ajeet\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\Nitesh.NITESH-872DF234\Desktop\ajeet\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Student_Info.resources
+C:\Documents and Settings\Nitesh.NITESH-872DF234\Desktop\ajeet\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Marks_Data_Entry.resources
+C:\Documents and Settings\Nitesh.NITESH-872DF234\Desktop\ajeet\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.View_Profile.resources
+C:\Documents and Settings\Nitesh.NITESH-872DF234\Desktop\ajeet\Shree\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.vbproj.GenerateResource.Cache
+E:\Projects\Shree Education\ajeet\Shree\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.exe.config
+E:\Projects\Shree Education\ajeet\Shree\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.exe
+E:\Projects\Shree Education\ajeet\Shree\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.xml
+E:\Projects\Shree Education\ajeet\Shree\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.pdb
+E:\Projects\Shree Education\ajeet\Shree\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.exe
+E:\Projects\Shree Education\ajeet\Shree\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.pdb
+E:\Projects\Shree Education\ajeet\Shree\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.xml
+E:\Projects\Shree Education\ajeet\Shree\Shree_Edu\Shree_Edu\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\Shree Education\ajeet\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Add_Test.resources
+E:\Projects\Shree Education\ajeet\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Profile_Report.resources
+E:\Projects\Shree Education\ajeet\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Stud_AddSub.resources
+E:\Projects\Shree Education\ajeet\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Change_Pwd.resources
+E:\Projects\Shree Education\ajeet\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Class_Add.resources
+E:\Projects\Shree Education\ajeet\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Select_Action.resources
+E:\Projects\Shree Education\ajeet\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.loginForm.resources
+E:\Projects\Shree Education\ajeet\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Student_Detail.resources
+E:\Projects\Shree Education\ajeet\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Resources.resources
+E:\Projects\Shree Education\ajeet\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Student_Info.resources
+E:\Projects\Shree Education\ajeet\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Marks_Data_Entry.resources
+E:\Projects\Shree Education\ajeet\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.View_Profile.resources
+E:\Projects\Shree Education\ajeet\Shree\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.vbproj.GenerateResource.Cache
+G:\Shree\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.exe.config
+G:\Shree\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.exe
+G:\Shree\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.xml
+G:\Shree\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.pdb
+G:\Shree\Shree_Edu\Shree_Edu\obj\Debug\ResolveAssemblyReference.cache
+G:\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Add_Test.resources
+G:\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Profile_Report.resources
+G:\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Stud_AddSub.resources
+G:\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Change_Pwd.resources
+G:\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Class_Add.resources
+G:\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Select_Action.resources
+G:\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.loginForm.resources
+G:\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Student_Detail.resources
+G:\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Resources.resources
+G:\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Student_Info.resources
+G:\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Marks_Data_Entry.resources
+G:\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.View_Profile.resources
+G:\Shree\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.vbproj.GenerateResource.Cache
+G:\Shree\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.exe
+G:\Shree\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.pdb
+G:\Shree\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.xml
+I:\Shree\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.exe.config
+I:\Shree\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.exe
+I:\Shree\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.xml
+I:\Shree\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.pdb
+I:\Shree\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.exe
+I:\Shree\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.pdb
+I:\Shree\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.xml
+I:\Shree\Shree_Edu\Shree_Edu\obj\Debug\ResolveAssemblyReference.cache
+I:\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Add_Test.resources
+I:\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Profile_Report.resources
+I:\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Stud_AddSub.resources
+I:\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Change_Pwd.resources
+I:\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Class_Add.resources
+I:\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Select_Action.resources
+I:\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.loginForm.resources
+I:\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Student_Detail.resources
+I:\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Resources.resources
+I:\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Student_Info.resources
+I:\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Marks_Data_Entry.resources
+I:\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.View_Profile.resources
+I:\Shree\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.vbproj.GenerateResource.Cache
+C:\Users\Nitesh\Desktop\Shree\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.exe.config
+C:\Users\Nitesh\Desktop\Shree\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.exe
+C:\Users\Nitesh\Desktop\Shree\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.xml
+C:\Users\Nitesh\Desktop\Shree\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.pdb
+C:\Users\Nitesh\Desktop\Shree\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.exe
+C:\Users\Nitesh\Desktop\Shree\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.pdb
+C:\Users\Nitesh\Desktop\Shree\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.xml
+C:\Users\Nitesh\Desktop\Shree\Shree_Edu\Shree_Edu\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nitesh\Desktop\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Add_Test.resources
+C:\Users\Nitesh\Desktop\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Fees_status.resources
+C:\Users\Nitesh\Desktop\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Profile_Report.resources
+C:\Users\Nitesh\Desktop\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Stud_AddSub.resources
+C:\Users\Nitesh\Desktop\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Change_Pwd.resources
+C:\Users\Nitesh\Desktop\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Class_Add.resources
+C:\Users\Nitesh\Desktop\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Select_Action.resources
+C:\Users\Nitesh\Desktop\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.loginForm.resources
+C:\Users\Nitesh\Desktop\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Student_Detail.resources
+C:\Users\Nitesh\Desktop\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Nitesh\Desktop\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Student_Info.resources
+C:\Users\Nitesh\Desktop\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Marks_Data_Entry.resources
+C:\Users\Nitesh\Desktop\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.View_Profile.resources
+C:\Users\Nitesh\Desktop\Shree\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.vbproj.GenerateResource.Cache
+D:\Projects\shree_13.04.13\Shree\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.exe.config
+D:\Projects\shree_13.04.13\Shree\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.exe
+D:\Projects\shree_13.04.13\Shree\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.xml
+D:\Projects\shree_13.04.13\Shree\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.pdb
+D:\Projects\shree_13.04.13\Shree\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.exe
+D:\Projects\shree_13.04.13\Shree\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.pdb
+D:\Projects\shree_13.04.13\Shree\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.xml
+D:\Projects\shree_13.04.13\Shree\Shree_Edu\Shree_Edu\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\shree_13.04.13\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Add_Test.resources
+D:\Projects\shree_13.04.13\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Fees_status.resources
+D:\Projects\shree_13.04.13\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Profile_Report.resources
+D:\Projects\shree_13.04.13\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Reports.resources
+D:\Projects\shree_13.04.13\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Change_Pwd.resources
+D:\Projects\shree_13.04.13\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Select_Action.resources
+D:\Projects\shree_13.04.13\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.loginForm.resources
+D:\Projects\shree_13.04.13\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Resources.resources
+D:\Projects\shree_13.04.13\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Marks_Data_Entry.resources
+D:\Projects\shree_13.04.13\Shree\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.vbproj.GenerateResource.Cache
+D:\Projects\shree_13.04.13\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Individual_Report_Form.resources
+D:\Projects\shree_13.04.13\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.class_report.resources
+D:\Projects\shree_13.04.13\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Add_Class.resources
+D:\Projects\shree_13.04.13\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Assign_sub.resources
+D:\Projects\shree_13.04.13\Shree\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Student_Reg.resources
+D:\Projects\shree_13.04.13\Shree15\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.exe.config
+D:\Projects\shree_13.04.13\Shree15\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.exe
+D:\Projects\shree_13.04.13\Shree15\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.xml
+D:\Projects\shree_13.04.13\Shree15\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.pdb
+D:\Projects\shree_13.04.13\Shree15\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.exe
+D:\Projects\shree_13.04.13\Shree15\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.pdb
+D:\Projects\shree_13.04.13\Shree15\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.xml
+D:\Projects\shree_13.04.13\Shree15\Shree_Edu\Shree_Edu\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\shree_13.04.13\Shree15\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Add_Class.resources
+D:\Projects\shree_13.04.13\Shree15\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Add_Test.resources
+D:\Projects\shree_13.04.13\Shree15\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Change_Pwd.resources
+D:\Projects\shree_13.04.13\Shree15\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.class_report.resources
+D:\Projects\shree_13.04.13\Shree15\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Fees_status.resources
+D:\Projects\shree_13.04.13\Shree15\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Marks_Data_Entry.resources
+D:\Projects\shree_13.04.13\Shree15\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Profile_Report.resources
+D:\Projects\shree_13.04.13\Shree15\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Reports.resources
+D:\Projects\shree_13.04.13\Shree15\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Select_Action.resources
+D:\Projects\shree_13.04.13\Shree15\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.loginForm.resources
+D:\Projects\shree_13.04.13\Shree15\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Resources.resources
+D:\Projects\shree_13.04.13\Shree15\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Individual_Report_Form.resources
+D:\Projects\shree_13.04.13\Shree15\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Assign_sub.resources
+D:\Projects\shree_13.04.13\Shree15\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.Student_Reg.resources
+D:\Projects\shree_13.04.13\Shree15\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.vbproj.GenerateResource.Cache
+D:\Projects\shree_13.04.13\Shree15\Shree_Edu\Shree_Edu\obj\Debug\WindowsApplication1.emailtest.resources
+I:\Shree15\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.exe.config
+I:\Shree15\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.exe
+I:\Shree15\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.xml
+I:\Shree15\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.pdb
+C:\Users\Nitesh\Desktop\latest project\Shree15\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.exe.config
+C:\Users\Nitesh\Desktop\latest project\Shree15\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.exe
+C:\Users\Nitesh\Desktop\latest project\Shree15\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.xml
+C:\Users\Nitesh\Desktop\latest project\Shree15\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.pdb
+C:\Users\Nitesh\Desktop\latest project\Shree15\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.exe
+C:\Users\Nitesh\Desktop\latest project\Shree15\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.pdb
+C:\Users\Nitesh\Desktop\latest project\Shree15\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.xml
+C:\Users\Nitesh\Desktop\latest project\Shree15\Shree_Edu\Shree_Edu\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nitesh\Desktop\latest project\Shree15\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.vbproj.GenerateResource.Cache
+C:\Users\Nitesh\Desktop\latest project\Shree15\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.Add_Class.resources
+C:\Users\Nitesh\Desktop\latest project\Shree15\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.Add_Test.resources
+C:\Users\Nitesh\Desktop\latest project\Shree15\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.Add_User.resources
+C:\Users\Nitesh\Desktop\latest project\Shree15\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.Ask_Add_Delete_User.resources
+C:\Users\Nitesh\Desktop\latest project\Shree15\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.Change_Pwd.resources
+C:\Users\Nitesh\Desktop\latest project\Shree15\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.class_report.resources
+C:\Users\Nitesh\Desktop\latest project\Shree15\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.emailtest.resources
+C:\Users\Nitesh\Desktop\latest project\Shree15\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.Fees_status.resources
+C:\Users\Nitesh\Desktop\latest project\Shree15\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.FogortPasswordForm.resources
+C:\Users\Nitesh\Desktop\latest project\Shree15\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.forgotChangePassword.resources
+C:\Users\Nitesh\Desktop\latest project\Shree15\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.Marks_Data_Entry.resources
+C:\Users\Nitesh\Desktop\latest project\Shree15\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.Master_Password.resources
+C:\Users\Nitesh\Desktop\latest project\Shree15\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.Profile_Report.resources
+C:\Users\Nitesh\Desktop\latest project\Shree15\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.Reports.resources
+C:\Users\Nitesh\Desktop\latest project\Shree15\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.Select_Action.resources
+C:\Users\Nitesh\Desktop\latest project\Shree15\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.loginForm.resources
+C:\Users\Nitesh\Desktop\latest project\Shree15\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.Resources.resources
+C:\Users\Nitesh\Desktop\latest project\Shree15\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.Individual_Report_Form.resources
+C:\Users\Nitesh\Desktop\latest project\Shree15\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.Assign_sub.resources
+C:\Users\Nitesh\Desktop\latest project\Shree15\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.Signup.resources
+C:\Users\Nitesh\Desktop\latest project\Shree15\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.Student_Reg.resources
+J:\latest project\Shree15\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.exe.config
+J:\latest project\Shree15\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.exe
+J:\latest project\Shree15\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.xml
+J:\latest project\Shree15\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.pdb
+C:\Users\Nitesh\Desktop\shree.git\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.exe.config
+C:\Users\Nitesh\Desktop\shree.git\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.exe
+C:\Users\Nitesh\Desktop\shree.git\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.xml
+C:\Users\Nitesh\Desktop\shree.git\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.pdb
+C:\Users\Nitesh\Desktop\shree.git\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.exe
+C:\Users\Nitesh\Desktop\shree.git\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.pdb
+C:\Users\Nitesh\Desktop\shree.git\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.xml
+C:\Users\Nitesh\Desktop\shree.git\Shree_Edu\Shree_Edu\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nitesh\Desktop\shree.git\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.Add_Class.resources
+C:\Users\Nitesh\Desktop\shree.git\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.Add_Test.resources
+C:\Users\Nitesh\Desktop\shree.git\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.Add_User.resources
+C:\Users\Nitesh\Desktop\shree.git\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.Ask_Add_Delete_User.resources
+C:\Users\Nitesh\Desktop\shree.git\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.Change_Pwd.resources
+C:\Users\Nitesh\Desktop\shree.git\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.class_report.resources
+C:\Users\Nitesh\Desktop\shree.git\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.emailtest.resources
+C:\Users\Nitesh\Desktop\shree.git\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.Fees_status.resources
+C:\Users\Nitesh\Desktop\shree.git\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.FogortPasswordForm.resources
+C:\Users\Nitesh\Desktop\shree.git\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.forgotChangePassword.resources
+C:\Users\Nitesh\Desktop\shree.git\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.loginForm.resources
+C:\Users\Nitesh\Desktop\shree.git\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.Marks_Data_Entry.resources
+C:\Users\Nitesh\Desktop\shree.git\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.Master_Password.resources
+C:\Users\Nitesh\Desktop\shree.git\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.Profile_Report.resources
+C:\Users\Nitesh\Desktop\shree.git\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.Reports.resources
+C:\Users\Nitesh\Desktop\shree.git\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.Resources.resources
+C:\Users\Nitesh\Desktop\shree.git\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.Individual_Report_Form.resources
+C:\Users\Nitesh\Desktop\shree.git\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.Assign_sub.resources
+C:\Users\Nitesh\Desktop\shree.git\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.Select_Action.resources
+C:\Users\Nitesh\Desktop\shree.git\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.Student_Reg.resources
+C:\Users\Nitesh\Desktop\shree.git\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.vbproj.GenerateResource.Cache
+C:\Users\Nitesh\Desktop\shree.git\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.Add_discount.resources
+C:\Users\Nitesh\Desktop\shree.git\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.Fees_Report.resources
+C:\Users\Nitesh\Desktop\shree.git\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.Verification_By_Email.resources
+E:\Projects\8 sem project\shree.git\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.exe.config
+E:\Projects\8 sem project\shree.git\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.exe
+E:\Projects\8 sem project\shree.git\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.xml
+E:\Projects\8 sem project\shree.git\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.pdb
+J:\shree.git\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.exe.config
+J:\shree.git\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.exe
+J:\shree.git\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.xml
+J:\shree.git\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.pdb
+J:\shree.git\Shree_Edu\Shree_Edu\obj\Debug\ResolveAssemblyReference.cache
+J:\shree.git\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.Add_Class.resources
+J:\shree.git\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.Add_discount.resources
+J:\shree.git\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.Add_Test.resources
+J:\shree.git\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.Add_User.resources
+J:\shree.git\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.Ask_Add_Delete_User.resources
+J:\shree.git\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.Change_Pwd.resources
+J:\shree.git\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.class_report.resources
+J:\shree.git\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.emailtest.resources
+J:\shree.git\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.Fees_Report.resources
+J:\shree.git\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.Fees_status.resources
+J:\shree.git\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.FogortPasswordForm.resources
+J:\shree.git\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.forgotChangePassword.resources
+J:\shree.git\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.loginForm.resources
+J:\shree.git\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.Marks_Data_Entry.resources
+J:\shree.git\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.Master_Password.resources
+J:\shree.git\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.Profile_Report.resources
+J:\shree.git\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.Reports.resources
+J:\shree.git\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.Resources.resources
+J:\shree.git\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.Individual_Report_Form.resources
+J:\shree.git\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.Assign_sub.resources
+J:\shree.git\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.Select_Action.resources
+J:\shree.git\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.Student_Reg.resources
+J:\shree.git\Shree_Edu\Shree_Edu\obj\Debug\ShreeEducation.Verification_By_Email.resources
+J:\shree.git\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.vbproj.GenerateResource.Cache
+J:\shree.git\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.exe
+J:\shree.git\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.pdb
+J:\shree.git\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.xml
+C:\Users\Ajeetk\Desktop\exceed.git\Shree_Edu\Shree_Edu\bin\Debug\Shree_Edu.exe.config
+C:\Users\Ajeetk\Desktop\exceed.git\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.exe
+C:\Users\Ajeetk\Desktop\exceed.git\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.xml
+C:\Users\Ajeetk\Desktop\exceed.git\Shree_Edu\Shree_Edu\obj\Debug\Shree_Edu.pdb
